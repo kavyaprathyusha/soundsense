@@ -1,28 +1,19 @@
+# Web interface
 streamlit
-pyaudio
-speechrecognition
-numpy
-matplotlib
-pygame
-soundfile
-transformers
-torchaudio
-# Flask backend and core logic
 flask
+
+# Data handling
 pandas
 scikit-learn
 joblib
+numpy
 
-# Audio + Voice Emotion
-torchaudio
+# Audio processing
 librosa
 speechbrain
+soundfile
+pygame
 
-# Whisper transcription (includes OpenAI Whisper model)
+# Transcription and NLP
 openai-whisper
-
-# Text-based emotion from transcript
 transformers
-
-# Optional (if you're doing file manip or using numpy directly)
-numpy
