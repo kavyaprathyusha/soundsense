@@ -1,0 +1,28 @@
+streamlit
+pyaudio
+speechrecognition
+numpy
+matplotlib
+pygame
+soundfile
+transformers
+torchaudio
+# Flask backend and core logic
+flask
+pandas
+scikit-learn
+joblib
+
+# Audio + Voice Emotion
+torchaudio
+librosa
+speechbrain
+
+# Whisper transcription (includes OpenAI Whisper model)
+openai-whisper
+
+# Text-based emotion from transcript
+transformers
+
+# Optional (if you're doing file manip or using numpy directly)
+numpy

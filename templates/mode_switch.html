@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SXM SoundSense Mode Selection</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #0c1c2c;
+            color: white;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+
+        header {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 1.5rem;
+        }
+
+        header img {
+            height: 40px;
+        }
+
+        h1 {
+            font-size: 2rem;
+            font-weight: 600;
+            color: #ffffff;
+            margin-bottom: 0.5rem;
+        }
+
+        p.description {
+            max-width: 600px;
+            text-align: center;
+            font-size: 1.05rem;
+            color: #cfd8dc;
+            margin-bottom: 2rem;
+        }
+
+        .button-container {
+            display: flex;
+            gap: 1.5rem;
+        }
+
+        button {
+            padding: 1rem 2rem;
+            font-size: 1.1rem;
+            border: none;
+            border-radius: 50px;
+            background: #001F5B;
+            color: #fff;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        button:hover {
+            background: #003585;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://www.siriusxm.com/content/dam/sxm-com/corporate/corp-com/media-assets/brand-logo---icons/SiriusXM%20WORDMARK%20BLUE%20RGB%20(1).png" alt="SiriusXM Logo">
+        <h1>Welcome to SiriusXM SoundSense</h1>
+        <p class="description">
+            An emotion-aware audio experience that adapts to how you're feeling — stressed, calm, energized, or bored —
+            using real-time voice input and driving behavior.
+        </p>
+
+        <p class="description">
+            Whether you're stuck in traffic or cruising the open road,
+            SoundSense curates the perfect vibe without you saying a word.
+        </p>
+
+    </header>
+    <p class="description">
+        Choose your input mode to indulge in the experience!
+    </p>
+    <div class="button-container">
+
+        <button onclick="location.href='/driving'">🚗 Driving Behavior</button>
+        <button onclick="location.href='/voice'">🎙️ Voice Input</button>
+    </div>
+</body>
+</html>

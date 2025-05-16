@@ -1,0 +1,1363 @@
+destination,duration,traffic,speed_zone,style,emotion
+Work,30-60,Heavy,City,Braking,Stressed
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Home,15-30,Light,Residential,Calm,Calm
+Home,<15,Light,Residential,Calm,Calm
+Gym,<15,Moderate,City,Fast,Energized
+Gym,15-30,Moderate,City,Fast,Energized
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Airport,1+,Moderate,Highway,Braking,Stressed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Unknown,<15,Light,School,Calm,Bored
+Unknown,<15,Light,School,Calm,Bored
+Work,15-30,Moderate,City,Braking,Stressed
+Home,30-60,Moderate,Residential,Calm,Calm
+Gym,30-60,Heavy,City,Fast,Energized
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Unknown,30-60,Light,School,Calm,Bored
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Work,30-60,Heavy,City,Braking,Stressed
+Work,30-60,Stop-and-go,City,Braking,Stressed
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Work,30-60,Heavy,City,Braking,Stressed
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Work,15-30,Moderate,City,Braking,Stressed
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Home,15-30,Light,Residential,Calm,Calm
+Home,<15,Light,Residential,Calm,Calm
+Home,30-60,Moderate,Residential,Calm,Calm
+Unknown,15-30,Light,School,Calm,Calm
+Home,15-30,Moderate,Residential,Calm,Calm
+Gym,<15,Moderate,City,Fast,Energized
+Gym,15-30,Moderate,City,Fast,Energized
+Unknown,<15,Moderate,City,Fast,Energized
+Gym,30-60,Heavy,City,Fast,Energized
+Airport,15-30,Moderate,Highway,Fast,Energized
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Home,1+,Light,Highway,Calm,Relaxed
+Unknown,<15,Light,School,Calm,Bored
+Unknown,<15,Light,Residential,Calm,Bored
+Unknown,15-30,Light,School,Calm,Bored
+Home,<15,Light,School,Calm,Bored
+Road Trip,<15,Light,Residential,Calm,Bored
+Home,15-30,Light,Residential,Calm,Calm
+Unknown,<15,Light,School,Calm,Bored
+Unknown,<15,Light,Residential,Calm,Bored
+Home,<15,Light,Residential,Calm,Calm
+Home,30-60,Moderate,Residential,Calm,Calm
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Gym,30-60,Heavy,City,Fast,Energized
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Home,15-30,Moderate,Residential,Calm,Calm
+Unknown,<15,Moderate,City,Fast,Energized
+Gym,30-60,Heavy,City,Fast,Energized
+Home,<15,Light,School,Calm,Bored
+Work,30-60,Heavy,City,Braking,Stressed
+Unknown,15-30,Light,School,Calm,Bored
+Work,30-60,Heavy,City,Braking,Stressed
+Home,15-30,Moderate,Residential,Calm,Calm
+Gym,30-60,Heavy,City,Fast,Energized
+Work,15-30,Moderate,City,Braking,Stressed
+Home,1+,Light,Highway,Calm,Relaxed
+Unknown,<15,Light,School,Calm,Bored
+Home,30-60,Moderate,Residential,Calm,Calm
+Work,30-60,Heavy,City,Braking,Stressed
+Work,15-30,Moderate,City,Braking,Stressed
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Unknown,<15,Light,School,Calm,Bored
+Home,<15,Light,Residential,Calm,Calm
+Unknown,15-30,Light,School,Calm,Bored
+Unknown,15-30,Light,School,Calm,Calm
+Unknown,<15,Light,School,Calm,Bored
+Airport,15-30,Moderate,Highway,Fast,Energized
+Unknown,<15,Light,School,Calm,Bored
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Home,15-30,Moderate,Residential,Calm,Calm
+Gym,30-60,Heavy,City,Fast,Energized
+Unknown,<15,Light,Residential,Calm,Bored
+Gym,30-60,Heavy,City,Fast,Energized
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Home,<15,Light,School,Calm,Bored
+Airport,15-30,Moderate,Highway,Fast,Energized
+Unknown,15-30,Light,School,Calm,Bored
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Home,15-30,Moderate,Residential,Calm,Calm
+Home,30-60,Moderate,Residential,Calm,Calm
+Home,15-30,Moderate,Residential,Calm,Calm
+Home,15-30,Moderate,Residential,Calm,Calm
+Road Trip,<15,Light,Residential,Calm,Bored
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Home,15-30,Light,Residential,Calm,Calm
+Unknown,<15,Light,School,Calm,Bored
+Home,30-60,Moderate,Residential,Calm,Calm
+Work,15-30,Moderate,City,Braking,Stressed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Unknown,15-30,Light,School,Calm,Calm
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Gym,15-30,Moderate,City,Fast,Energized
+Home,15-30,Light,Residential,Calm,Calm
+Gym,15-30,Moderate,City,Fast,Energized
+Road Trip,<15,Light,Residential,Calm,Bored
+Unknown,<15,Light,Residential,Calm,Bored
+Unknown,<15,Light,Residential,Calm,Bored
+Airport,15-30,Moderate,Highway,Fast,Energized
+Unknown,<15,Moderate,City,Fast,Energized
+Unknown,<15,Light,School,Calm,Bored
+Gym,15-30,Moderate,City,Fast,Energized
+Airport,15-30,Moderate,Highway,Fast,Energized
+Unknown,<15,Light,School,Calm,Bored
+Unknown,15-30,Light,School,Calm,Bored
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Airport,15-30,Moderate,Highway,Fast,Energized
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Unknown,<15,Moderate,City,Fast,Energized
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Road Trip,<15,Light,Residential,Calm,Bored
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Home,15-30,Moderate,Residential,Calm,Calm
+Gym,<15,Moderate,City,Fast,Energized
+Gym,30-60,Heavy,City,Fast,Energized
+Home,<15,Light,Residential,Calm,Calm
+Unknown,<15,Moderate,City,Fast,Energized
+Home,<15,Light,School,Calm,Bored
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Unknown,<15,Light,School,Calm,Bored
+Unknown,15-30,Light,School,Calm,Bored
+Home,15-30,Moderate,Residential,Calm,Calm
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Airport,15-30,Moderate,Highway,Fast,Energized
+Unknown,<15,Moderate,City,Fast,Energized
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Home,<15,Light,Residential,Calm,Calm
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Gym,15-30,Moderate,City,Fast,Energized
+Home,30-60,Moderate,Residential,Calm,Calm
+Unknown,15-30,Light,School,Calm,Calm
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Work,15-30,Moderate,City,Braking,Stressed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Unknown,<15,Light,School,Calm,Bored
+Home,1+,Light,Highway,Calm,Relaxed
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Home,<15,Light,Residential,Calm,Calm
+Unknown,<15,Moderate,City,Fast,Energized
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Home,<15,Light,School,Calm,Bored
+Work,30-60,Heavy,City,Braking,Stressed
+Home,<15,Light,School,Calm,Bored
+Unknown,<15,Light,School,Calm,Bored
+Road Trip,<15,Light,Residential,Calm,Bored
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Home,15-30,Light,Residential,Calm,Calm
+Gym,<15,Moderate,City,Fast,Energized
+Unknown,<15,Light,Residential,Calm,Bored
+Road Trip,<15,Light,Residential,Calm,Bored
+Airport,15-30,Moderate,Highway,Fast,Energized
+Unknown,<15,Light,Residential,Calm,Bored
+Gym,30-60,Heavy,City,Fast,Energized
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Home,<15,Light,Residential,Calm,Calm
+Airport,15-30,Moderate,Highway,Fast,Energized
+Road Trip,<15,Light,Residential,Calm,Bored
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Unknown,15-30,Light,School,Calm,Calm
+Road Trip,<15,Light,Residential,Calm,Bored
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Unknown,<15,Moderate,City,Fast,Energized
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Unknown,<15,Light,Residential,Calm,Bored
+Home,1+,Light,Highway,Calm,Relaxed
+Road Trip,<15,Light,Residential,Calm,Bored
+Unknown,<15,Light,Residential,Calm,Bored
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Work,30-60,Heavy,City,Braking,Stressed
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Airport,15-30,Moderate,Highway,Fast,Energized
+Airport,15-30,Moderate,Highway,Fast,Energized
+Home,15-30,Moderate,Residential,Calm,Calm
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Home,<15,Light,Residential,Calm,Calm
+Unknown,<15,Light,Residential,Calm,Bored
+Home,1+,Light,Highway,Calm,Relaxed
+Home,1+,Light,Highway,Calm,Relaxed
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Road Trip,<15,Light,Residential,Calm,Bored
+Unknown,15-30,Light,School,Calm,Calm
+Home,<15,Light,School,Calm,Bored
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Home,1+,Light,Highway,Calm,Relaxed
+Unknown,<15,Moderate,City,Fast,Energized
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Home,15-30,Light,Residential,Calm,Calm
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Home,15-30,Moderate,Residential,Calm,Calm
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Road Trip,<15,Light,Residential,Calm,Bored
+Unknown,<15,Light,Residential,Calm,Bored
+Work,30-60,Heavy,City,Braking,Stressed
+Unknown,15-30,Light,School,Calm,Calm
+Unknown,<15,Moderate,City,Fast,Energized
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Home,<15,Light,School,Calm,Bored
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Gym,15-30,Moderate,City,Fast,Energized
+Gym,15-30,Moderate,City,Fast,Energized
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Gym,15-30,Moderate,City,Fast,Energized
+Home,1+,Light,Highway,Calm,Relaxed
+Home,<15,Light,School,Calm,Bored
+Unknown,15-30,Light,School,Calm,Calm
+Home,30-60,Moderate,Residential,Calm,Calm
+Home,<15,Light,Residential,Calm,Calm
+Home,15-30,Moderate,Residential,Calm,Calm
+Airport,15-30,Moderate,Highway,Fast,Energized
+Unknown,15-30,Light,School,Calm,Calm
+Work,15-30,Moderate,City,Braking,Stressed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Gym,15-30,Moderate,City,Fast,Energized
+Home,<15,Light,School,Calm,Bored
+Gym,15-30,Moderate,City,Fast,Energized
+Work,30-60,Heavy,City,Braking,Stressed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Airport,15-30,Moderate,Highway,Fast,Energized
+Unknown,<15,Light,Residential,Calm,Bored
+Gym,<15,Moderate,City,Fast,Energized
+Home,<15,Light,School,Calm,Bored
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Home,30-60,Moderate,Residential,Calm,Calm
+Home,<15,Light,Residential,Calm,Calm
+Work,30-60,Heavy,City,Braking,Stressed
+Unknown,<15,Light,School,Calm,Bored
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Unknown,15-30,Light,School,Calm,Calm
+Unknown,<15,Moderate,City,Fast,Energized
+Gym,30-60,Heavy,City,Fast,Energized
+Home,15-30,Moderate,Residential,Calm,Calm
+Unknown,<15,Light,Residential,Calm,Bored
+Unknown,<15,Light,Residential,Calm,Bored
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Gym,<15,Moderate,City,Fast,Energized
+Home,15-30,Moderate,Residential,Calm,Calm
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Home,15-30,Light,Residential,Calm,Calm
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Home,30-60,Moderate,Residential,Calm,Calm
+Work,30-60,Heavy,City,Braking,Stressed
+Home,1+,Light,Highway,Calm,Relaxed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Home,15-30,Light,Residential,Calm,Calm
+Unknown,<15,Moderate,City,Fast,Energized
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Unknown,15-30,Light,School,Calm,Bored
+Home,15-30,Light,Residential,Calm,Calm
+Unknown,<15,Light,Residential,Calm,Bored
+Road Trip,<15,Light,Residential,Calm,Bored
+Work,15-30,Moderate,City,Braking,Stressed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Unknown,15-30,Light,School,Calm,Calm
+Unknown,<15,Moderate,City,Fast,Energized
+Work,30-60,Heavy,City,Braking,Stressed
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Unknown,<15,Light,Residential,Calm,Bored
+Unknown,<15,Moderate,City,Fast,Energized
+Gym,30-60,Heavy,City,Fast,Energized
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Home,<15,Light,School,Calm,Bored
+Unknown,15-30,Light,School,Calm,Calm
+Home,15-30,Light,Residential,Calm,Calm
+Home,1+,Light,Highway,Calm,Relaxed
+Work,15-30,Moderate,City,Braking,Stressed
+Unknown,<15,Light,School,Calm,Bored
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Unknown,<15,Light,School,Calm,Bored
+Gym,15-30,Moderate,City,Fast,Energized
+Work,30-60,Heavy,City,Braking,Stressed
+Gym,15-30,Moderate,City,Fast,Energized
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Gym,30-60,Heavy,City,Fast,Energized
+Gym,<15,Moderate,City,Fast,Energized
+Home,1+,Light,Highway,Calm,Relaxed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Unknown,15-30,Light,School,Calm,Calm
+Unknown,15-30,Light,School,Calm,Calm
+Work,15-30,Moderate,City,Braking,Stressed
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Unknown,15-30,Light,School,Calm,Bored
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Home,15-30,Light,Residential,Calm,Calm
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Unknown,<15,Moderate,City,Fast,Energized
+Home,15-30,Light,Residential,Calm,Calm
+Home,15-30,Light,Residential,Calm,Calm
+Gym,15-30,Moderate,City,Fast,Energized
+Home,30-60,Moderate,Residential,Calm,Calm
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Unknown,<15,Light,School,Calm,Bored
+Work,15-30,Moderate,City,Braking,Stressed
+Unknown,15-30,Light,School,Calm,Bored
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Gym,30-60,Heavy,City,Fast,Energized
+Gym,30-60,Heavy,City,Fast,Energized
+Unknown,15-30,Light,School,Calm,Calm
+Work,15-30,Moderate,City,Braking,Stressed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Home,15-30,Moderate,Residential,Calm,Calm
+Home,15-30,Moderate,Residential,Calm,Calm
+Gym,<15,Moderate,City,Fast,Energized
+Gym,<15,Moderate,City,Fast,Energized
+Unknown,<15,Light,Residential,Calm,Bored
+Home,<15,Light,School,Calm,Bored
+Road Trip,<15,Light,Residential,Calm,Bored
+Work,15-30,Moderate,City,Braking,Stressed
+Home,30-60,Moderate,Residential,Calm,Calm
+Home,<15,Light,Residential,Calm,Calm
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Home,15-30,Moderate,Residential,Calm,Calm
+Unknown,<15,Light,School,Calm,Bored
+Gym,15-30,Moderate,City,Fast,Energized
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Unknown,<15,Light,Residential,Calm,Bored
+Unknown,15-30,Light,School,Calm,Bored
+Home,30-60,Moderate,Residential,Calm,Calm
+Work,30-60,Heavy,City,Braking,Stressed
+Home,15-30,Light,Residential,Calm,Calm
+Unknown,<15,Light,School,Calm,Bored
+Home,30-60,Moderate,Residential,Calm,Calm
+Unknown,15-30,Light,School,Calm,Calm
+Home,30-60,Moderate,Residential,Calm,Calm
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Gym,<15,Moderate,City,Fast,Energized
+Home,30-60,Moderate,Residential,Calm,Calm
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Airport,15-30,Moderate,Highway,Fast,Energized
+Home,15-30,Moderate,Residential,Calm,Calm
+Home,15-30,Light,Residential,Calm,Calm
+Unknown,<15,Moderate,City,Fast,Energized
+Unknown,<15,Light,School,Calm,Bored
+Gym,15-30,Moderate,City,Fast,Energized
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Home,15-30,Moderate,Residential,Calm,Calm
+Gym,15-30,Moderate,City,Fast,Energized
+Unknown,<15,Light,School,Calm,Bored
+Unknown,<15,Light,School,Calm,Bored
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Unknown,<15,Light,School,Calm,Bored
+Unknown,<15,Light,School,Calm,Bored
+Unknown,<15,Light,School,Calm,Bored
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Road Trip,<15,Light,Residential,Calm,Bored
+Unknown,<15,Moderate,City,Fast,Energized
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Road Trip,<15,Light,Residential,Calm,Bored
+Unknown,15-30,Light,School,Calm,Calm
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Home,<15,Light,School,Calm,Bored
+Unknown,<15,Light,School,Calm,Bored
+Unknown,<15,Moderate,City,Fast,Energized
+Gym,<15,Moderate,City,Fast,Energized
+Work,15-30,Moderate,City,Braking,Stressed
+Work,30-60,Heavy,City,Braking,Stressed
+Home,1+,Light,Highway,Calm,Relaxed
+Unknown,<15,Light,School,Calm,Bored
+Unknown,<15,Moderate,City,Fast,Energized
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Unknown,15-30,Light,School,Calm,Calm
+Gym,15-30,Moderate,City,Fast,Energized
+Gym,<15,Moderate,City,Fast,Energized
+Gym,<15,Moderate,City,Fast,Energized
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Gym,<15,Moderate,City,Fast,Energized
+Work,30-60,Heavy,City,Braking,Stressed
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Home,<15,Light,Residential,Calm,Calm
+Unknown,15-30,Light,School,Calm,Bored
+Gym,30-60,Heavy,City,Fast,Energized
+Home,1+,Light,Highway,Calm,Relaxed
+Home,1+,Light,Highway,Calm,Relaxed
+Home,15-30,Light,Residential,Calm,Calm
+Gym,30-60,Heavy,City,Fast,Energized
+Unknown,15-30,Light,School,Calm,Bored
+Gym,30-60,Heavy,City,Fast,Energized
+Gym,30-60,Heavy,City,Fast,Energized
+Work,15-30,Moderate,City,Braking,Stressed
+Gym,15-30,Moderate,City,Fast,Energized
+Road Trip,<15,Light,Residential,Calm,Bored
+Home,1+,Light,Highway,Calm,Relaxed
+Gym,30-60,Heavy,City,Fast,Energized
+Home,1+,Light,Highway,Calm,Relaxed
+Unknown,15-30,Light,School,Calm,Calm
+Unknown,15-30,Light,School,Calm,Calm
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Work,15-30,Moderate,City,Braking,Stressed
+Home,<15,Light,Residential,Calm,Calm
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Home,<15,Light,Residential,Calm,Calm
+Gym,<15,Moderate,City,Fast,Energized
+Airport,15-30,Moderate,Highway,Fast,Energized
+Unknown,15-30,Light,School,Calm,Calm
+Unknown,<15,Light,School,Calm,Bored
+Work,15-30,Moderate,City,Braking,Stressed
+Work,30-60,Heavy,City,Braking,Stressed
+Home,30-60,Moderate,Residential,Calm,Calm
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Gym,15-30,Moderate,City,Fast,Energized
+Unknown,<15,Moderate,City,Fast,Energized
+Unknown,<15,Moderate,City,Fast,Energized
+Airport,15-30,Moderate,Highway,Fast,Energized
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Home,<15,Light,Residential,Calm,Calm
+Road Trip,<15,Light,Residential,Calm,Bored
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Gym,30-60,Heavy,City,Fast,Energized
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Gym,<15,Moderate,City,Fast,Energized
+Home,<15,Light,Residential,Calm,Calm
+Unknown,15-30,Light,School,Calm,Calm
+Gym,30-60,Heavy,City,Fast,Energized
+Home,1+,Light,Highway,Calm,Relaxed
+Gym,15-30,Moderate,City,Fast,Energized
+Road Trip,<15,Light,Residential,Calm,Bored
+Road Trip,<15,Light,Residential,Calm,Bored
+Work,15-30,Moderate,City,Braking,Stressed
+Unknown,15-30,Light,School,Calm,Bored
+Unknown,<15,Moderate,City,Fast,Energized
+Home,30-60,Moderate,Residential,Calm,Calm
+Gym,30-60,Heavy,City,Fast,Energized
+Gym,15-30,Moderate,City,Fast,Energized
+Home,<15,Light,School,Calm,Bored
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Work,30-60,Heavy,City,Braking,Stressed
+Home,<15,Light,Residential,Calm,Calm
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Unknown,<15,Light,School,Calm,Bored
+Airport,15-30,Moderate,Highway,Fast,Energized
+Home,30-60,Moderate,Residential,Calm,Calm
+Gym,15-30,Moderate,City,Fast,Energized
+Road Trip,<15,Light,Residential,Calm,Bored
+Road Trip,<15,Light,Residential,Calm,Bored
+Home,<15,Light,School,Calm,Bored
+Work,30-60,Heavy,City,Braking,Stressed
+Home,15-30,Light,Residential,Calm,Calm
+Work,30-60,Heavy,City,Braking,Stressed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Unknown,<15,Light,Residential,Calm,Bored
+Unknown,15-30,Light,School,Calm,Bored
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Unknown,<15,Light,Residential,Calm,Bored
+Work,15-30,Moderate,City,Braking,Stressed
+Home,<15,Light,Residential,Calm,Calm
+Airport,15-30,Moderate,Highway,Fast,Energized
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Gym,15-30,Moderate,City,Fast,Energized
+Road Trip,<15,Light,Residential,Calm,Bored
+Unknown,15-30,Light,School,Calm,Calm
+Airport,15-30,Moderate,Highway,Fast,Energized
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Gym,<15,Moderate,City,Fast,Energized
+Home,1+,Light,Highway,Calm,Relaxed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Work,15-30,Moderate,City,Braking,Stressed
+Home,30-60,Moderate,Residential,Calm,Calm
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Home,15-30,Light,Residential,Calm,Calm
+Home,<15,Light,Residential,Calm,Calm
+Gym,15-30,Moderate,City,Fast,Energized
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Home,15-30,Light,Residential,Calm,Calm
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Unknown,<15,Light,Residential,Calm,Bored
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Home,15-30,Light,Residential,Calm,Calm
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Home,<15,Light,Residential,Calm,Calm
+Gym,15-30,Moderate,City,Fast,Energized
+Unknown,15-30,Light,School,Calm,Bored
+Home,<15,Light,School,Calm,Bored
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Home,30-60,Moderate,Residential,Calm,Calm
+Unknown,15-30,Light,School,Calm,Bored
+Road Trip,<15,Light,Residential,Calm,Bored
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Home,15-30,Moderate,Residential,Calm,Calm
+Home,30-60,Moderate,Residential,Calm,Calm
+Unknown,<15,Moderate,City,Fast,Energized
+Home,15-30,Light,Residential,Calm,Calm
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Gym,15-30,Moderate,City,Fast,Energized
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Home,1+,Light,Highway,Calm,Relaxed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Unknown,<15,Moderate,City,Fast,Energized
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Road Trip,<15,Light,Residential,Calm,Bored
+Unknown,15-30,Light,School,Calm,Bored
+Gym,<15,Moderate,City,Fast,Energized
+Unknown,<15,Light,School,Calm,Bored
+Gym,30-60,Heavy,City,Fast,Energized
+Unknown,15-30,Light,School,Calm,Calm
+Gym,15-30,Moderate,City,Fast,Energized
+Unknown,15-30,Light,School,Calm,Calm
+Home,<15,Light,School,Calm,Bored
+Home,30-60,Moderate,Residential,Calm,Calm
+Unknown,15-30,Light,School,Calm,Bored
+Work,30-60,Heavy,City,Braking,Stressed
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Gym,30-60,Heavy,City,Fast,Energized
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Gym,30-60,Heavy,City,Fast,Energized
+Gym,15-30,Moderate,City,Fast,Energized
+Gym,<15,Moderate,City,Fast,Energized
+Gym,<15,Moderate,City,Fast,Energized
+Work,30-60,Heavy,City,Braking,Stressed
+Road Trip,<15,Light,Residential,Calm,Bored
+Unknown,15-30,Light,School,Calm,Bored
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Road Trip,<15,Light,Residential,Calm,Bored
+Work,15-30,Moderate,City,Braking,Stressed
+Home,<15,Light,School,Calm,Bored
+Home,15-30,Light,Residential,Calm,Calm
+Work,30-60,Heavy,City,Braking,Stressed
+Home,1+,Light,Highway,Calm,Relaxed
+Airport,15-30,Moderate,Highway,Fast,Energized
+Home,1+,Light,Highway,Calm,Relaxed
+Home,15-30,Moderate,Residential,Calm,Calm
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Home,<15,Light,School,Calm,Bored
+Gym,15-30,Moderate,City,Fast,Energized
+Gym,15-30,Moderate,City,Fast,Energized
+Work,30-60,Heavy,City,Braking,Stressed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Gym,30-60,Heavy,City,Fast,Energized
+Unknown,<15,Light,School,Calm,Bored
+Home,30-60,Moderate,Residential,Calm,Calm
+Home,<15,Light,Residential,Calm,Calm
+Unknown,15-30,Light,School,Calm,Calm
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Unknown,<15,Light,Residential,Calm,Bored
+Home,<15,Light,Residential,Calm,Calm
+Home,15-30,Light,Residential,Calm,Calm
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Home,30-60,Moderate,Residential,Calm,Calm
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Home,15-30,Moderate,Residential,Calm,Calm
+Airport,15-30,Moderate,Highway,Fast,Energized
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Gym,15-30,Moderate,City,Fast,Energized
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Home,<15,Light,School,Calm,Bored
+Unknown,<15,Light,School,Calm,Bored
+Gym,30-60,Heavy,City,Fast,Energized
+Unknown,<15,Moderate,City,Fast,Energized
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Unknown,<15,Moderate,City,Fast,Energized
+Unknown,<15,Light,Residential,Calm,Bored
+Home,1+,Light,Highway,Calm,Relaxed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Unknown,15-30,Light,School,Calm,Calm
+Unknown,15-30,Light,School,Calm,Bored
+Home,15-30,Moderate,Residential,Calm,Calm
+Gym,15-30,Moderate,City,Fast,Energized
+Unknown,<15,Moderate,City,Fast,Energized
+Unknown,<15,Light,School,Calm,Bored
+Home,30-60,Moderate,Residential,Calm,Calm
+Unknown,15-30,Light,School,Calm,Calm
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Home,<15,Light,Residential,Calm,Calm
+Work,30-60,Heavy,City,Braking,Stressed
+Road Trip,<15,Light,Residential,Calm,Bored
+Work,30-60,Heavy,City,Braking,Stressed
+Work,30-60,Heavy,City,Braking,Stressed
+Home,1+,Light,Highway,Calm,Relaxed
+Unknown,<15,Moderate,City,Fast,Energized
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Home,15-30,Light,Residential,Calm,Calm
+Gym,<15,Moderate,City,Fast,Energized
+Gym,30-60,Heavy,City,Fast,Energized
+Unknown,15-30,Light,School,Calm,Calm
+Home,15-30,Light,Residential,Calm,Calm
+Unknown,15-30,Light,School,Calm,Bored
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Unknown,15-30,Light,School,Calm,Calm
+Home,30-60,Moderate,Residential,Calm,Calm
+Airport,15-30,Moderate,Highway,Fast,Energized
+Home,1+,Light,Highway,Calm,Relaxed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Home,15-30,Light,Residential,Calm,Calm
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Home,15-30,Light,Residential,Calm,Calm
+Home,30-60,Moderate,Residential,Calm,Calm
+Unknown,15-30,Light,School,Calm,Calm
+Home,<15,Light,School,Calm,Bored
+Gym,30-60,Heavy,City,Fast,Energized
+Home,<15,Light,School,Calm,Bored
+Home,<15,Light,Residential,Calm,Calm
+Home,<15,Light,School,Calm,Bored
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Home,30-60,Moderate,Residential,Calm,Calm
+Gym,15-30,Moderate,City,Fast,Energized
+Road Trip,<15,Light,Residential,Calm,Bored
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Gym,30-60,Heavy,City,Fast,Energized
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Airport,15-30,Moderate,Highway,Fast,Energized
+Work,15-30,Moderate,City,Braking,Stressed
+Unknown,<15,Light,Residential,Calm,Bored
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Road Trip,<15,Light,Residential,Calm,Bored
+Gym,<15,Moderate,City,Fast,Energized
+Work,30-60,Heavy,City,Braking,Stressed
+Home,1+,Light,Highway,Calm,Relaxed
+Home,30-60,Moderate,Residential,Calm,Calm
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Unknown,<15,Moderate,City,Fast,Energized
+Unknown,<15,Moderate,City,Fast,Energized
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Unknown,<15,Light,School,Calm,Bored
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Work,15-30,Moderate,City,Braking,Stressed
+Home,<15,Light,School,Calm,Bored
+Gym,<15,Moderate,City,Fast,Energized
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Gym,<15,Moderate,City,Fast,Energized
+Work,30-60,Heavy,City,Braking,Stressed
+Home,15-30,Light,Residential,Calm,Calm
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Work,30-60,Heavy,City,Braking,Stressed
+Unknown,<15,Moderate,City,Fast,Energized
+Work,15-30,Moderate,City,Braking,Stressed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Road Trip,<15,Light,Residential,Calm,Bored
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Gym,30-60,Heavy,City,Fast,Energized
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Work,30-60,Heavy,City,Braking,Stressed
+Airport,15-30,Moderate,Highway,Fast,Energized
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Home,1+,Light,Highway,Calm,Relaxed
+Unknown,15-30,Light,School,Calm,Calm
+Unknown,15-30,Light,School,Calm,Calm
+Home,<15,Light,Residential,Calm,Calm
+Home,1+,Light,Highway,Calm,Relaxed
+Road Trip,<15,Light,Residential,Calm,Bored
+Road Trip,<15,Light,Residential,Calm,Bored
+Gym,30-60,Heavy,City,Fast,Energized
+Home,<15,Light,School,Calm,Bored
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Gym,15-30,Moderate,City,Fast,Energized
+Gym,30-60,Heavy,City,Fast,Energized
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Home,15-30,Moderate,Residential,Calm,Calm
+Home,30-60,Moderate,Residential,Calm,Calm
+Home,<15,Light,School,Calm,Bored
+Gym,<15,Moderate,City,Fast,Energized
+Home,15-30,Light,Residential,Calm,Calm
+Unknown,<15,Light,Residential,Calm,Bored
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Road Trip,<15,Light,Residential,Calm,Bored
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Home,15-30,Light,Residential,Calm,Calm
+Unknown,15-30,Light,School,Calm,Bored
+Unknown,15-30,Light,School,Calm,Bored
+Gym,15-30,Moderate,City,Fast,Energized
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Home,<15,Light,School,Calm,Bored
+Home,<15,Light,Residential,Calm,Calm
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Gym,<15,Moderate,City,Fast,Energized
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Work,15-30,Moderate,City,Braking,Stressed
+Unknown,15-30,Light,School,Calm,Calm
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Home,<15,Light,Residential,Calm,Calm
+Unknown,<15,Light,School,Calm,Bored
+Unknown,15-30,Light,School,Calm,Calm
+Work,15-30,Moderate,City,Braking,Stressed
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Work,30-60,Heavy,City,Braking,Stressed
+Gym,30-60,Heavy,City,Fast,Energized
+Road Trip,<15,Light,Residential,Calm,Bored
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Work,15-30,Moderate,City,Braking,Stressed
+Home,30-60,Moderate,Residential,Calm,Calm
+Road Trip,<15,Light,Residential,Calm,Bored
+Home,1+,Light,Highway,Calm,Relaxed
+Home,15-30,Light,Residential,Calm,Calm
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Home,<15,Light,Residential,Calm,Calm
+Work,15-30,Moderate,City,Braking,Stressed
+Airport,15-30,Moderate,Highway,Fast,Energized
+Work,15-30,Moderate,City,Braking,Stressed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Work,15-30,Moderate,City,Braking,Stressed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Home,30-60,Moderate,Residential,Calm,Calm
+Unknown,15-30,Light,School,Calm,Bored
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Home,1+,Light,Highway,Calm,Relaxed
+Home,<15,Light,School,Calm,Bored
+Unknown,15-30,Light,School,Calm,Bored
+Home,15-30,Light,Residential,Calm,Calm
+Home,<15,Light,School,Calm,Bored
+Gym,15-30,Moderate,City,Fast,Energized
+Road Trip,<15,Light,Residential,Calm,Bored
+Work,30-60,Heavy,City,Braking,Stressed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Home,15-30,Moderate,Residential,Calm,Calm
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Gym,30-60,Heavy,City,Fast,Energized
+Home,1+,Light,Highway,Calm,Relaxed
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Road Trip,<15,Light,Residential,Calm,Bored
+Gym,30-60,Heavy,City,Fast,Energized
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Home,15-30,Light,Residential,Calm,Calm
+Work,30-60,Heavy,City,Braking,Stressed
+Gym,15-30,Moderate,City,Fast,Energized
+Road Trip,<15,Light,Residential,Calm,Bored
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Unknown,<15,Light,School,Calm,Bored
+Home,1+,Light,Highway,Calm,Relaxed
+Road Trip,<15,Light,Residential,Calm,Bored
+Home,30-60,Moderate,Residential,Calm,Calm
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Home,15-30,Light,Residential,Calm,Calm
+Gym,<15,Moderate,City,Fast,Energized
+Unknown,<15,Moderate,City,Fast,Energized
+Unknown,15-30,Light,School,Calm,Bored
+Unknown,<15,Light,School,Calm,Bored
+Gym,30-60,Heavy,City,Fast,Energized
+Unknown,<15,Light,School,Calm,Bored
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Work,30-60,Heavy,City,Braking,Stressed
+Home,<15,Light,Residential,Calm,Calm
+Gym,30-60,Heavy,City,Fast,Energized
+Home,15-30,Light,Residential,Calm,Calm
+Gym,15-30,Moderate,City,Fast,Energized
+Home,1+,Light,Highway,Calm,Relaxed
+Unknown,<15,Light,Residential,Calm,Bored
+Road Trip,<15,Light,Residential,Calm,Bored
+Unknown,15-30,Light,School,Calm,Bored
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Home,1+,Light,Highway,Calm,Relaxed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Home,30-60,Moderate,Residential,Calm,Calm
+Work,15-30,Moderate,City,Braking,Stressed
+Work,15-30,Moderate,City,Braking,Stressed
+Work,30-60,Heavy,City,Braking,Stressed
+Unknown,15-30,Light,School,Calm,Calm
+Gym,<15,Moderate,City,Fast,Energized
+Gym,30-60,Heavy,City,Fast,Energized
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Road Trip,<15,Light,Residential,Calm,Bored
+Home,1+,Light,Highway,Calm,Relaxed
+Gym,<15,Moderate,City,Fast,Energized
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Work,30-60,Heavy,City,Braking,Stressed
+Road Trip,<15,Light,Residential,Calm,Bored
+Gym,<15,Moderate,City,Fast,Energized
+Unknown,<15,Moderate,City,Fast,Energized
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Gym,30-60,Heavy,City,Fast,Energized
+Home,15-30,Moderate,Residential,Calm,Calm
+Unknown,<15,Light,Residential,Calm,Bored
+Airport,15-30,Moderate,Highway,Fast,Energized
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Airport,15-30,Moderate,Highway,Fast,Energized
+Home,15-30,Moderate,Residential,Calm,Calm
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Unknown,<15,Light,Residential,Calm,Bored
+Unknown,<15,Moderate,City,Fast,Energized
+Unknown,<15,Light,Residential,Calm,Bored
+Unknown,<15,Light,School,Calm,Bored
+Road Trip,<15,Light,Residential,Calm,Bored
+Work,15-30,Moderate,City,Braking,Stressed
+Unknown,<15,Moderate,City,Fast,Energized
+Road Trip,<15,Light,Residential,Calm,Bored
+Home,<15,Light,Residential,Calm,Calm
+Home,15-30,Moderate,Residential,Calm,Calm
+Gym,30-60,Heavy,City,Fast,Energized
+Gym,30-60,Heavy,City,Fast,Energized
+Gym,<15,Moderate,City,Fast,Energized
+Unknown,15-30,Light,School,Calm,Bored
+Home,1+,Light,Highway,Calm,Relaxed
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Home,15-30,Moderate,Residential,Calm,Calm
+Unknown,<15,Light,Residential,Calm,Bored
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Gym,30-60,Heavy,City,Fast,Energized
+Home,<15,Light,Residential,Calm,Calm
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Gym,30-60,Heavy,City,Fast,Energized
+Home,15-30,Moderate,Residential,Calm,Calm
+Gym,30-60,Heavy,City,Fast,Energized
+Unknown,<15,Light,School,Calm,Bored
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Work,30-60,Heavy,City,Braking,Stressed
+Work,30-60,Heavy,City,Braking,Stressed
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Work,15-30,Moderate,City,Braking,Stressed
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Unknown,<15,Moderate,City,Fast,Energized
+Home,30-60,Moderate,Residential,Calm,Calm
+Gym,30-60,Heavy,City,Fast,Energized
+Airport,15-30,Moderate,Highway,Fast,Energized
+Unknown,<15,Light,Residential,Calm,Bored
+Home,<15,Light,School,Calm,Bored
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Home,15-30,Light,Residential,Calm,Calm
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Gym,30-60,Heavy,City,Fast,Energized
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Work,30-60,Heavy,City,Braking,Stressed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Road Trip,<15,Light,Residential,Calm,Bored
+Unknown,<15,Light,School,Calm,Bored
+Unknown,15-30,Light,School,Calm,Calm
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Unknown,15-30,Light,School,Calm,Bored
+Gym,15-30,Moderate,City,Fast,Energized
+Unknown,<15,Moderate,City,Fast,Energized
+Road Trip,<15,Light,Residential,Calm,Bored
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Home,<15,Light,Residential,Calm,Calm
+Work,30-60,Heavy,City,Braking,Stressed
+Gym,<15,Moderate,City,Fast,Energized
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Unknown,<15,Light,Residential,Calm,Bored
+Home,15-30,Light,Residential,Calm,Calm
+Home,15-30,Light,Residential,Calm,Calm
+Home,<15,Light,Residential,Calm,Calm
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Unknown,15-30,Light,School,Calm,Calm
+Home,15-30,Light,Residential,Calm,Calm
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Unknown,15-30,Light,School,Calm,Calm
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Gym,30-60,Heavy,City,Fast,Energized
+Work,30-60,Heavy,City,Braking,Stressed
+Road Trip,<15,Light,Residential,Calm,Bored
+Home,<15,Light,School,Calm,Bored
+Unknown,<15,Light,School,Calm,Bored
+Unknown,<15,Light,School,Calm,Bored
+Road Trip,<15,Light,Residential,Calm,Bored
+Home,15-30,Moderate,Residential,Calm,Calm
+Work,15-30,Moderate,City,Braking,Stressed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Work,30-60,Heavy,City,Braking,Stressed
+Airport,15-30,Moderate,Highway,Fast,Energized
+Unknown,15-30,Light,School,Calm,Bored
+Home,1+,Light,Highway,Calm,Relaxed
+Unknown,<15,Light,School,Calm,Bored
+Unknown,<15,Light,School,Calm,Bored
+Home,<15,Light,School,Calm,Bored
+Work,15-30,Moderate,City,Braking,Stressed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Work,15-30,Moderate,City,Braking,Stressed
+Unknown,<15,Moderate,City,Fast,Energized
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Unknown,<15,Light,Residential,Calm,Bored
+Home,<15,Light,Residential,Calm,Calm
+Home,<15,Light,Residential,Calm,Calm
+Home,15-30,Moderate,Residential,Calm,Calm
+Work,30-60,Heavy,City,Braking,Stressed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Airport,15-30,Moderate,Highway,Fast,Energized
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Work,30-60,Heavy,City,Braking,Stressed
+Gym,15-30,Moderate,City,Fast,Energized
+Home,15-30,Light,Residential,Calm,Calm
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Work,30-60,Heavy,City,Braking,Stressed
+Gym,30-60,Heavy,City,Fast,Energized
+Home,15-30,Moderate,Residential,Calm,Calm
+Unknown,15-30,Light,School,Calm,Bored
+Work,15-30,Moderate,City,Braking,Stressed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Home,30-60,Moderate,Residential,Calm,Calm
+Unknown,<15,Moderate,City,Fast,Energized
+Gym,<15,Moderate,City,Fast,Energized
+Unknown,<15,Light,Residential,Calm,Bored
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Home,30-60,Moderate,Residential,Calm,Calm
+Gym,<15,Moderate,City,Fast,Energized
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Unknown,<15,Light,Residential,Calm,Bored
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Unknown,15-30,Light,School,Calm,Calm
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Unknown,<15,Light,Residential,Calm,Bored
+Home,1+,Light,Highway,Calm,Relaxed
+Unknown,<15,Light,Residential,Calm,Bored
+Unknown,15-30,Light,School,Calm,Calm
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Gym,30-60,Heavy,City,Fast,Energized
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Unknown,<15,Light,Residential,Calm,Bored
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Unknown,<15,Light,School,Calm,Bored
+Work,30-60,Heavy,City,Braking,Stressed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Gym,<15,Moderate,City,Fast,Energized
+Home,<15,Light,Residential,Calm,Calm
+Road Trip,30-60,Light,Highway,Calm,Relaxed
+Home,<15,Light,School,Calm,Bored
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Airport,15-30,Moderate,Highway,Fast,Energized
+Home,15-30,Moderate,Residential,Calm,Calm
+Road Trip,<15,Light,Residential,Calm,Bored
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Work,30-60,Heavy,City,Braking,Stressed
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Airport,15-30,Moderate,Highway,Fast,Energized
+Unknown,15-30,Light,School,Calm,Calm
+Home,<15,Light,Residential,Calm,Calm
+Home,1+,Light,Highway,Calm,Relaxed
+Unknown,15-30,Light,School,Calm,Bored
+Work,30-60,Heavy,City,Braking,Stressed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Unknown,15-30,Light,School,Calm,Calm
+Airport,15-30,Moderate,Highway,Fast,Energized
+Gym,15-30,Moderate,City,Fast,Energized
+Airport,15-30,Moderate,Highway,Fast,Energized
+Home,<15,Light,School,Calm,Bored
+Airport,15-30,Moderate,Highway,Fast,Energized
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Work,30-60,Heavy,City,Braking,Stressed
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Home,30-60,Moderate,Residential,Calm,Calm
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Unknown,<15,Light,School,Calm,Bored
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Home,<15,Light,Residential,Calm,Calm
+Home,15-30,Light,Residential,Calm,Calm
+Gym,15-30,Moderate,City,Fast,Energized
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Home,<15,Light,School,Calm,Bored
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Unknown,<15,Moderate,City,Fast,Energized
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Gym,30-60,Heavy,City,Fast,Energized
+Gym,<15,Moderate,City,Fast,Energized
+Home,15-30,Moderate,Residential,Calm,Calm
+Airport,1+,Heavy,Highway,Aggressive,Stressed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Home,30-60,Moderate,Residential,Calm,Calm
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Home,30-60,Moderate,Residential,Calm,Calm
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Home,15-30,Light,Residential,Calm,Calm
+Unknown,<15,Light,Residential,Calm,Bored
+Home,30-60,Moderate,Residential,Calm,Calm
+Gym,15-30,Moderate,City,Fast,Energized
+Home,15-30,Moderate,Residential,Calm,Calm
+Unknown,<15,Light,Residential,Calm,Bored
+Unknown,15-30,Light,School,Calm,Calm
+Unknown,<15,Light,School,Calm,Bored
+Work,15-30,Moderate,City,Braking,Stressed
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Home,15-30,Light,Residential,Calm,Calm
+Road Trip,<15,Light,Residential,Calm,Bored
+Home,<15,Light,Residential,Calm,Calm
+Airport,15-30,Moderate,Highway,Fast,Energized
+Road Trip,1+,Light,Highway,Fast,Relaxed
+Road Trip,1+,Moderate,Highway,Calm,Relaxed
+Airport,1+,Stop-and-go,Highway,Aggressive,Stressed
+Road Trip,1+,Light,Highway,Calm,Relaxed
+Home,15-30,Moderate,Residential,Calm,Calm
+Gym,30-60,Heavy,City,Fast,Energized
+Work,30-60,Stop-and-go,City,Aggressive,Stressed
+Unknown,15-30,Light,School,Calm,Calm
+Sports Event,30-60,Moderate,City,Fast,Game Mode
+Party,15-30,Light,City,Fast,Game Mode
+Romantic Date,30-60,Light,City,Calm,Romantic
+Romantic Date,15-30,Moderate,City,Fast,Romantic
+Restaurant,15-30,Light,Residential,Calm,Romantic
+Nature Drive,30-60,Light,Highway,Calm,Relaxed
+destination,duration,traffic,speed_zone,style,emotion
+Romantic Date,30-60,Stop-and-go,Residential,Calm,Romantic
+Romantic Date,15-30,Light,Residential,Calm,Romantic
+Romantic Date,30-60,Moderate,City,Braking,Romantic
+Romantic Date,30-60,Light,School,Calm,Romantic
+Romantic Date,<15,Stop-and-go,School,Braking,Romantic
+Romantic Date,<15,Light,City,Aggressive,Romantic
+Romantic Date,15-30,Moderate,City,Fast,Romantic
+Romantic Date,15-30,Stop-and-go,Residential,Calm,Romantic
+Romantic Date,1+,Heavy,City,Calm,Romantic
+Romantic Date,15-30,Stop-and-go,Highway,Aggressive,Romantic
+Romantic Date,<15,Heavy,Highway,Aggressive,Romantic
+Romantic Date,30-60,Light,School,Aggressive,Romantic
+Romantic Date,15-30,Light,Residential,Aggressive,Romantic
+Romantic Date,1+,Moderate,School,Calm,Romantic
+Romantic Date,15-30,Light,Residential,Aggressive,Romantic
+Romantic Date,30-60,Moderate,City,Fast,Romantic
+Romantic Date,15-30,Moderate,Highway,Fast,Romantic
+Romantic Date,<15,Light,Highway,Fast,Romantic
+Romantic Date,<15,Moderate,School,Aggressive,Romantic
+Romantic Date,30-60,Stop-and-go,Residential,Braking,Romantic
+Romantic Date,15-30,Light,Highway,Aggressive,Romantic
+Romantic Date,30-60,Stop-and-go,School,Fast,Romantic
+Romantic Date,15-30,Heavy,Highway,Aggressive,Romantic
+Romantic Date,1+,Moderate,City,Fast,Romantic
+Romantic Date,15-30,Moderate,Highway,Braking,Romantic
+Romantic Date,<15,Heavy,Highway,Calm,Romantic
+Romantic Date,15-30,Light,City,Braking,Romantic
+Romantic Date,15-30,Light,School,Calm,Romantic
+Romantic Date,<15,Stop-and-go,Highway,Fast,Romantic
+Romantic Date,15-30,Stop-and-go,City,Braking,Romantic
+Romantic Date,30-60,Stop-and-go,City,Calm,Romantic
+Romantic Date,30-60,Light,Residential,Fast,Romantic
+Romantic Date,30-60,Moderate,School,Calm,Romantic
+Romantic Date,1+,Moderate,Residential,Fast,Romantic
+Romantic Date,30-60,Light,Highway,Aggressive,Romantic
+Romantic Date,<15,Heavy,Highway,Calm,Romantic
+Romantic Date,15-30,Light,School,Aggressive,Romantic
+Romantic Date,15-30,Moderate,School,Aggressive,Romantic
+Restaurant,<15,Light,School,Fast,Romantic
+Restaurant,30-60,Stop-and-go,School,Braking,Romantic
+Restaurant,15-30,Light,Residential,Braking,Romantic
+Restaurant,<15,Stop-and-go,School,Calm,Romantic
+Restaurant,<15,Moderate,Residential,Aggressive,Romantic
+Restaurant,15-30,Light,Highway,Braking,Romantic
+Restaurant,30-60,Light,Residential,Braking,Romantic
+Restaurant,1+,Light,City,Aggressive,Romantic
+Restaurant,30-60,Light,City,Fast,Romantic
+Restaurant,1+,Heavy,City,Aggressive,Romantic
+Restaurant,15-30,Moderate,Residential,Calm,Romantic
+Restaurant,1+,Heavy,City,Calm,Romantic
+Restaurant,30-60,Heavy,City,Fast,Romantic
+Restaurant,1+,Stop-and-go,School,Fast,Romantic
+Restaurant,<15,Light,Residential,Calm,Romantic
+Restaurant,<15,Light,City,Calm,Romantic
+Restaurant,<15,Light,School,Calm,Romantic
+Restaurant,1+,Stop-and-go,City,Calm,Romantic
+Restaurant,15-30,Light,City,Fast,Romantic
+Restaurant,1+,Light,Residential,Fast,Romantic
+Restaurant,15-30,Moderate,Residential,Fast,Romantic
+Restaurant,<15,Moderate,Highway,Aggressive,Romantic
+Restaurant,30-60,Stop-and-go,City,Fast,Romantic
+Restaurant,30-60,Stop-and-go,School,Braking,Romantic
+Restaurant,1+,Stop-and-go,School,Calm,Romantic
+Restaurant,<15,Moderate,Residential,Aggressive,Romantic
+Restaurant,1+,Heavy,City,Aggressive,Romantic
+Restaurant,15-30,Light,Residential,Aggressive,Romantic
+Restaurant,1+,Light,Highway,Braking,Romantic
+Restaurant,15-30,Stop-and-go,School,Calm,Romantic
+Restaurant,<15,Light,Residential,Calm,Romantic
+Restaurant,15-30,Light,Residential,Calm,Romantic
+Restaurant,<15,Moderate,Highway,Calm,Romantic
+Restaurant,15-30,Moderate,School,Fast,Romantic
+Restaurant,15-30,Heavy,School,Aggressive,Romantic
+Restaurant,15-30,Stop-and-go,Residential,Fast,Romantic
+Restaurant,30-60,Light,Highway,Aggressive,Romantic
+Restaurant,30-60,Stop-and-go,School,Braking,Romantic
+Party,1+,Stop-and-go,Highway,Braking,Energized
+Party,<15,Heavy,Residential,Fast,Energized
+Party,15-30,Light,Highway,Aggressive,Energized
+Party,1+,Heavy,Residential,Aggressive,Energized
+Party,30-60,Stop-and-go,School,Fast,Energized
+Party,15-30,Stop-and-go,School,Calm,Energized
+Party,15-30,Moderate,Highway,Aggressive,Energized
+Party,15-30,Stop-and-go,Highway,Aggressive,Energized
+Party,<15,Stop-and-go,School,Fast,Energized
+Party,15-30,Stop-and-go,Residential,Braking,Energized
+Party,<15,Light,Highway,Braking,Energized
+Party,1+,Stop-and-go,Highway,Fast,Energized
+Party,<15,Heavy,Highway,Calm,Energized
+Party,<15,Light,City,Calm,Energized
+Party,<15,Light,Highway,Braking,Energized
+Party,30-60,Light,Highway,Calm,Energized
+Party,30-60,Light,Residential,Aggressive,Energized
+Party,15-30,Moderate,City,Calm,Energized
+Party,1+,Heavy,City,Fast,Energized
+Party,15-30,Moderate,Highway,Aggressive,Energized
+Party,30-60,Moderate,Residential,Fast,Energized
+Party,<15,Moderate,Residential,Calm,Energized
+Party,<15,Stop-and-go,Highway,Aggressive,Energized
+Party,1+,Moderate,City,Fast,Energized
+Party,1+,Stop-and-go,City,Aggressive,Energized
+Party,1+,Heavy,Residential,Aggressive,Energized
+Party,<15,Stop-and-go,City,Braking,Energized
+Party,<15,Heavy,Highway,Fast,Energized
+Party,1+,Stop-and-go,Highway,Fast,Energized
+Party,30-60,Stop-and-go,Highway,Aggressive,Energized
+Party,30-60,Light,School,Braking,Energized
+Party,30-60,Light,City,Fast,Energized
+Party,<15,Heavy,Residential,Calm,Energized
+Party,30-60,Moderate,Residential,Aggressive,Energized
+Party,30-60,Heavy,City,Braking,Energized
+Party,15-30,Moderate,Residential,Aggressive,Energized
+Party,1+,Stop-and-go,Highway,Aggressive,Energized
+Party,1+,Stop-and-go,Highway,Calm,Energized
+Sports Event,<15,Light,Residential,Fast,Game Mode
+Sports Event,1+,Heavy,City,Fast,Game Mode
+Sports Event,<15,Moderate,Residential,Fast,Game Mode
+Sports Event,1+,Heavy,City,Calm,Game Mode
+Sports Event,15-30,Heavy,Residential,Calm,Game Mode
+Sports Event,15-30,Heavy,Residential,Fast,Game Mode
+Sports Event,30-60,Light,Highway,Fast,Game Mode
+Sports Event,<15,Heavy,Highway,Braking,Game Mode
+Sports Event,<15,Moderate,School,Braking,Game Mode
+Sports Event,30-60,Light,Residential,Aggressive,Game Mode
+Sports Event,15-30,Moderate,School,Calm,Game Mode
+Sports Event,30-60,Light,School,Calm,Game Mode
+Sports Event,30-60,Light,City,Calm,Game Mode
+Sports Event,15-30,Light,City,Fast,Game Mode
+Sports Event,<15,Heavy,Highway,Calm,Game Mode
+Sports Event,30-60,Heavy,City,Fast,Game Mode
+Sports Event,15-30,Light,Residential,Braking,Game Mode
+Sports Event,30-60,Moderate,Residential,Fast,Game Mode
+Sports Event,<15,Heavy,Residential,Aggressive,Game Mode
+Sports Event,15-30,Moderate,School,Aggressive,Game Mode
+Sports Event,30-60,Moderate,City,Braking,Game Mode
+Sports Event,30-60,Moderate,School,Calm,Game Mode
+Sports Event,<15,Moderate,Highway,Braking,Game Mode
+Sports Event,30-60,Heavy,School,Braking,Game Mode
+Sports Event,1+,Heavy,Residential,Aggressive,Game Mode
+Sports Event,<15,Stop-and-go,Residential,Braking,Game Mode
+Sports Event,<15,Stop-and-go,Highway,Braking,Game Mode
+Sports Event,30-60,Light,Residential,Aggressive,Game Mode
+Sports Event,<15,Light,City,Aggressive,Game Mode
+Sports Event,1+,Stop-and-go,City,Braking,Game Mode
+Sports Event,15-30,Light,Highway,Calm,Game Mode
+Sports Event,1+,Light,Residential,Calm,Game Mode
+Sports Event,15-30,Stop-and-go,Residential,Calm,Game Mode
+Sports Event,1+,Moderate,Residential,Aggressive,Game Mode
+Sports Event,1+,Moderate,Highway,Calm,Game Mode
+Sports Event,<15,Light,City,Calm,Game Mode
+Sports Event,30-60,Stop-and-go,School,Calm,Game Mode
+Sports Event,<15,Stop-and-go,City,Braking,Game Mode
+Sports Event,<15,Moderate,Residential,Calm,Game Mode
+Nature Drive,1+,Light,City,Aggressive,Relaxed
+Nature Drive,<15,Light,Highway,Aggressive,Relaxed
+Nature Drive,15-30,Heavy,City,Aggressive,Relaxed
+Nature Drive,15-30,Light,School,Fast,Relaxed
+Nature Drive,<15,Moderate,Residential,Calm,Relaxed
+Nature Drive,1+,Moderate,School,Fast,Relaxed
+Nature Drive,15-30,Stop-and-go,Residential,Braking,Relaxed
+Nature Drive,<15,Moderate,Residential,Braking,Relaxed
+Nature Drive,30-60,Heavy,City,Braking,Relaxed
+Nature Drive,30-60,Moderate,School,Braking,Relaxed
+Nature Drive,1+,Moderate,Highway,Calm,Relaxed
+Nature Drive,1+,Moderate,Highway,Fast,Relaxed
+Nature Drive,1+,Stop-and-go,Highway,Fast,Relaxed
+Nature Drive,1+,Moderate,City,Calm,Relaxed
+Nature Drive,30-60,Light,Residential,Fast,Relaxed
+Nature Drive,15-30,Heavy,School,Braking,Relaxed
+Nature Drive,15-30,Stop-and-go,Highway,Fast,Relaxed
+Nature Drive,<15,Stop-and-go,City,Aggressive,Relaxed
+Nature Drive,30-60,Moderate,Highway,Fast,Relaxed
+Nature Drive,30-60,Moderate,Highway,Fast,Relaxed
+Nature Drive,15-30,Moderate,School,Aggressive,Relaxed
+Nature Drive,30-60,Heavy,School,Fast,Relaxed
+Nature Drive,1+,Stop-and-go,Highway,Aggressive,Relaxed
+Nature Drive,30-60,Light,Residential,Fast,Relaxed
+Nature Drive,15-30,Light,School,Aggressive,Relaxed
+Nature Drive,30-60,Heavy,Highway,Braking,Relaxed
+Nature Drive,30-60,Stop-and-go,School,Fast,Relaxed
+Nature Drive,<15,Stop-and-go,School,Fast,Relaxed
+Nature Drive,<15,Moderate,City,Braking,Relaxed
+Nature Drive,1+,Light,School,Fast,Relaxed
+Nature Drive,<15,Moderate,Highway,Aggressive,Relaxed
+Nature Drive,<15,Moderate,Highway,Aggressive,Relaxed
+Nature Drive,30-60,Light,City,Braking,Relaxed
+Nature Drive,15-30,Light,School,Fast,Relaxed
+Nature Drive,15-30,Moderate,Residential,Braking,Relaxed
+Nature Drive,15-30,Heavy,Residential,Fast,Relaxed
+Nature Drive,30-60,Heavy,Highway,Calm,Relaxed
+Nature Drive,<15,Heavy,City,Calm,Relaxed
+Camping Site,15-30,Stop-and-go,Highway,Fast,Relaxed
+Camping Site,30-60,Light,Residential,Calm,Relaxed
+Camping Site,15-30,Heavy,School,Braking,Relaxed
+Camping Site,<15,Heavy,Residential,Aggressive,Relaxed
+Camping Site,30-60,Moderate,School,Aggressive,Relaxed
+Camping Site,<15,Stop-and-go,School,Aggressive,Relaxed
+Camping Site,1+,Heavy,School,Calm,Relaxed
+Camping Site,30-60,Moderate,City,Aggressive,Relaxed
+Camping Site,30-60,Stop-and-go,Highway,Aggressive,Relaxed
+Camping Site,1+,Light,Highway,Braking,Relaxed
+Camping Site,15-30,Stop-and-go,Highway,Calm,Relaxed
+Camping Site,30-60,Stop-and-go,Residential,Braking,Relaxed
+Camping Site,1+,Heavy,School,Calm,Relaxed
+Camping Site,1+,Heavy,City,Fast,Relaxed
+Camping Site,30-60,Stop-and-go,Residential,Braking,Relaxed
+Camping Site,<15,Moderate,City,Calm,Relaxed
+Camping Site,15-30,Stop-and-go,Residential,Fast,Relaxed
+Camping Site,<15,Stop-and-go,Residential,Braking,Relaxed
+Camping Site,30-60,Stop-and-go,City,Fast,Relaxed
+Camping Site,15-30,Light,Residential,Fast,Relaxed
+Camping Site,<15,Moderate,City,Aggressive,Relaxed
+Camping Site,15-30,Light,City,Fast,Relaxed
+Camping Site,30-60,Moderate,Residential,Braking,Relaxed
+Camping Site,15-30,Heavy,City,Aggressive,Relaxed
+Camping Site,15-30,Light,City,Braking,Relaxed
+Camping Site,1+,Moderate,Residential,Calm,Relaxed
+Camping Site,15-30,Moderate,City,Fast,Relaxed
+Camping Site,<15,Heavy,Highway,Fast,Relaxed
+Camping Site,30-60,Light,School,Calm,Relaxed
+Camping Site,30-60,Heavy,Residential,Aggressive,Relaxed
+Camping Site,<15,Stop-and-go,Residential,Calm,Relaxed
+Camping Site,<15,Light,City,Aggressive,Relaxed
+Camping Site,15-30,Moderate,Highway,Aggressive,Relaxed
+Camping Site,15-30,Moderate,Residential,Fast,Relaxed
+Camping Site,1+,Heavy,Residential,Braking,Relaxed
+Camping Site,1+,Stop-and-go,City,Aggressive,Relaxed
+Camping Site,<15,Light,Residential,Aggressive,Relaxed
+Camping Site,15-30,Moderate,School,Calm,Relaxed
+Vacation,<15,Heavy,School,Calm,Relaxed
+Vacation,1+,Heavy,City,Aggressive,Relaxed
+Vacation,15-30,Stop-and-go,City,Aggressive,Relaxed
+Vacation,30-60,Heavy,School,Calm,Relaxed
+Vacation,1+,Heavy,Residential,Aggressive,Relaxed
+Vacation,1+,Heavy,Highway,Calm,Relaxed
+Vacation,<15,Moderate,School,Fast,Relaxed
+Vacation,30-60,Heavy,School,Fast,Relaxed
+Vacation,<15,Heavy,School,Fast,Relaxed
+Vacation,30-60,Moderate,Highway,Fast,Relaxed
+Vacation,1+,Moderate,Highway,Fast,Relaxed
+Vacation,30-60,Stop-and-go,School,Braking,Relaxed
+Vacation,<15,Stop-and-go,City,Braking,Relaxed
+Vacation,<15,Heavy,Residential,Braking,Relaxed
+Vacation,<15,Heavy,School,Braking,Relaxed
+Vacation,<15,Light,City,Braking,Relaxed
+Vacation,<15,Moderate,Residential,Calm,Relaxed
+Vacation,15-30,Light,School,Aggressive,Relaxed
+Vacation,<15,Stop-and-go,Highway,Calm,Relaxed
+Vacation,30-60,Stop-and-go,Highway,Aggressive,Relaxed
+Vacation,1+,Light,Highway,Braking,Relaxed
+Vacation,15-30,Moderate,Residential,Calm,Relaxed
+Vacation,15-30,Stop-and-go,School,Calm,Relaxed
+Vacation,1+,Light,Residential,Calm,Relaxed
+Vacation,15-30,Heavy,City,Aggressive,Relaxed
+Vacation,1+,Light,School,Fast,Relaxed
+Vacation,<15,Moderate,City,Aggressive,Relaxed
+Vacation,<15,Moderate,Residential,Aggressive,Relaxed
+Vacation,1+,Heavy,City,Braking,Relaxed
+Vacation,<15,Heavy,City,Aggressive,Relaxed
+Vacation,<15,Light,Highway,Calm,Relaxed
+Vacation,15-30,Heavy,Highway,Aggressive,Relaxed
+Vacation,15-30,Stop-and-go,Highway,Fast,Relaxed
+Vacation,<15,Stop-and-go,Highway,Braking,Relaxed
+Vacation,30-60,Stop-and-go,Residential,Calm,Relaxed
+Vacation,<15,Moderate,City,Braking,Relaxed
+Vacation,<15,Stop-and-go,City,Fast,Relaxed
+Vacation,30-60,Light,City,Aggressive,Relaxed
+Unknown,1+,Heavy,School,Aggressive,Bored
+Unknown,<15,Heavy,Residential,Calm,Bored
+Unknown,1+,Heavy,Highway,Aggressive,Bored
+Unknown,15-30,Heavy,Highway,Braking,Bored
+Unknown,<15,Light,School,Fast,Bored
+Unknown,30-60,Stop-and-go,City,Braking,Bored
+Unknown,1+,Moderate,School,Braking,Bored
+Unknown,<15,Stop-and-go,School,Aggressive,Bored
+Unknown,<15,Stop-and-go,School,Aggressive,Bored
+Unknown,<15,Light,Residential,Fast,Bored
+Unknown,<15,Heavy,City,Calm,Bored
+Unknown,1+,Heavy,City,Calm,Bored
+Unknown,<15,Light,School,Fast,Bored
+Unknown,1+,Moderate,Highway,Aggressive,Bored
+Unknown,15-30,Stop-and-go,City,Aggressive,Bored
+Unknown,15-30,Heavy,Residential,Braking,Bored
+Unknown,<15,Moderate,Highway,Calm,Bored
+Unknown,1+,Heavy,City,Aggressive,Bored
+Unknown,<15,Moderate,Residential,Fast,Bored
+Unknown,<15,Stop-and-go,City,Braking,Bored
+Unknown,15-30,Light,Highway,Fast,Bored
+Unknown,<15,Light,School,Calm,Bored
+Unknown,1+,Heavy,Highway,Fast,Bored
+Unknown,1+,Light,Highway,Aggressive,Bored
+Unknown,15-30,Moderate,City,Calm,Bored
+Unknown,1+,Heavy,Residential,Calm,Bored
+Unknown,30-60,Heavy,School,Calm,Bored
+Unknown,15-30,Stop-and-go,School,Calm,Bored
+Unknown,<15,Light,School,Braking,Bored
+Unknown,15-30,Light,Highway,Calm,Bored
+Unknown,<15,Light,Residential,Aggressive,Bored
+Unknown,<15,Moderate,City,Calm,Bored
+Unknown,<15,Stop-and-go,Highway,Calm,Bored
+Unknown,15-30,Moderate,Highway,Braking,Bored
+Unknown,15-30,Light,Highway,Braking,Bored
+Unknown,<15,Light,School,Braking,Bored
+Unknown,30-60,Stop-and-go,Residential,Braking,Bored
+Unknown,30-60,Light,City,Aggressive,Bored
