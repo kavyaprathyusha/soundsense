@@ -11,3 +11,5 @@ numpy
 # Transcription and NLP
 openai-whisper
 transformers
+
+gunicorn
