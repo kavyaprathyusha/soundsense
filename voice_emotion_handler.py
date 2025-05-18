@@ -1,20 +1,11 @@
 
-import os
 import whisper
-import torchaudio
 import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
-from speechbrain.pretrained import SpeakerRecognition
 from flask import request, jsonify
-import librosa
-import numpy as np
 
 # Load models once
 whisper_model = whisper.load_model("base")
-speechbrain_model = SpeakerRecognition.from_hparams(
-    source="speechbrain/emotion-recognition-wav2vec2-IEMOCAP",
-    savedir="tmp_emotion_model"
-)
 
 text_tokenizer = AutoTokenizer.from_pretrained("j-hartmann/emotion-english-distilroberta-base")
 text_model = AutoModelForSequenceClassification.from_pretrained("j-hartmann/emotion-english-distilroberta-base")
@@ -39,21 +30,11 @@ def predict_voice():
     try:
         # Transcribe
         transcript = whisper_model.transcribe(audio_path)["text"]
-
-        # Voice emotion (tone)
-        signal, sr = torchaudio.load(audio_path)
-        signal = signal.mean(dim=0)  # mono
-        signal = signal.numpy()
-        signal_resampled = librosa.resample(signal, orig_sr=sr, target_sr=16000)
-        speechbrain_output = speechbrain_model.classify_file(audio_path)
-        tone_emotion = speechbrain_output[3]  # label
-
         # Text emotion
         text_emotion = predict_text_emotion(transcript)
 
         return jsonify({
             "transcript": transcript.strip(),
-            "emotion_tone": tone_emotion,
             "emotion_text": text_emotion
         })
 

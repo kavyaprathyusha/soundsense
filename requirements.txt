@@ -8,12 +8,6 @@ scikit-learn
 joblib
 numpy
 
-# Audio processing
-librosa
-speechbrain
-soundfile
-pygame
-
 # Transcription and NLP
 openai-whisper
 transformers
