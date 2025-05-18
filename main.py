@@ -1,4 +1,3 @@
-
 from flask import Flask, render_template, request, jsonify
 import joblib
 import pandas as pd
@@ -8,10 +7,9 @@ import whisper
 import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
-
 app = Flask(__name__)
 
-# Load models and encoders
+# Load driving model and encoders at startup (small memory footprint)
 model = joblib.load(os.path.join("models", "soundsense_emotion_model.pkl"))
 encoders = joblib.load(os.path.join("models", "label_encoders.pkl"))
 
@@ -19,10 +17,10 @@ encoders = joblib.load(os.path.join("models", "label_encoders.pkl"))
 with open(os.path.join(app.static_folder, "sxm_channels_multi.json")) as f:
     sxm_channels = json.load(f)
 
-# Load voice & text emotion models
-whisper_model = whisper.load_model("base")
-text_tokenizer = AutoTokenizer.from_pretrained("j-hartmann/emotion-english-distilroberta-base")
-text_model = AutoModelForSequenceClassification.from_pretrained("j-hartmann/emotion-english-distilroberta-base")
+# Initialize model references for lazy loading
+whisper_model = None
+text_tokenizer = None
+text_model = None
 
 @app.route("/")
 def home():
@@ -57,6 +55,8 @@ def predict_emotion():
 
 @app.route("/predict_voice", methods=["POST"])
 def predict_voice():
+    global whisper_model, text_tokenizer, text_model
+
     if 'audio_file' not in request.files:
         return jsonify({"error": "No audio file uploaded"}), 400
 
@@ -65,17 +65,25 @@ def predict_voice():
     audio_file.save(audio_path)
 
     try:
-        # Transcription using Whisper
+        # Lazy load Whisper model
+        if whisper_model is None:
+            whisper_model = whisper.load_model("base")
+
+        # Lazy load text emotion model
+        if text_tokenizer is None or text_model is None:
+            text_tokenizer = AutoTokenizer.from_pretrained("j-hartmann/emotion-english-distilroberta-base")
+            text_model = AutoModelForSequenceClassification.from_pretrained("j-hartmann/emotion-english-distilroberta-base")
+
+        # Transcription
         transcript = whisper_model.transcribe(audio_path)["text"]
         print(transcript)
 
-        # Text emotion using Transformers
+        # Emotion prediction from text
         inputs = text_tokenizer(transcript, return_tensors="pt")
         outputs = text_model(**inputs)
         probs = torch.nn.functional.softmax(outputs.logits, dim=-1)
         pred_idx = torch.argmax(probs).item()
         text_emotion = text_model.config.id2label[pred_idx]
-        # Emotions supported from Hugging Face:joy,sadness,anger,fear,surprise,disgust,neutral
 
         # Map model emotion to app emotion
         emotion_map = {
@@ -91,7 +99,6 @@ def predict_voice():
         mapped_emotion = emotion_map.get(text_emotion, "Calm")
         recommendations = sxm_channels.get(mapped_emotion, [])
 
-        print(text_emotion)
         return jsonify({
             "transcript": transcript.strip(),
             "emotion_text": text_emotion,
@@ -102,8 +109,7 @@ def predict_voice():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-
+# Bind to the port Render provides
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 5000))  # Use the PORT env var if available
+    port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port, debug=True)
-
